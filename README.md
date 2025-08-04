@@ -33,11 +33,12 @@ This repository is created to help **first-time contributors** get started with 
 Make sure you follow [Hacktoberfest rules](https://hacktoberfest.com/participation) and submit **quality PRs**.
 
 ##  Maintainer
-Made with  by [Shailaja Poojari](https://github.com/Shailaja-poojari)
+ [Shailaja Poojari](https://github.com/Shailaja-poojari)
 
 ---
 
 Happy Contributing !
+
 
 
 
